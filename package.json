@@ -1,0 +1,21 @@
+{
+  "author": "Matt Welch <matt@welcher.net> (http://mattwel.ch/)",
+  "name": "rtstat",
+  "description": "A node.js wrapper for the Radio Thermostat Family.",
+  "version": "0.0.1",
+  "homepage": "https://github.com/mattwelch/rtstat",
+  "bugs:": "https://github.com/mattwelch/rtstat/issues",
+  "main": "./index",
+  "engines": {
+    "node": "*"
+  },
+  "dependencies": {
+  	"q": "1.x",
+  	"request": "2.x"
+  },
+  "devDependencies": {
+  	"chai": "1.9.x",
+  	"chai-as-promised": "4.1.0",
+  	"sinon": "1.9.x",
+  }
+}
