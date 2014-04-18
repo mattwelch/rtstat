@@ -2,7 +2,7 @@
   "author": "Matt Welch <matt@welcher.net> (http://mattwel.ch/)",
   "name": "rtstat",
   "description": "A node.js wrapper for the Radio Thermostat Family.",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "homepage": "https://github.com/mattwelch/rtstat",
   "bugs:": "https://github.com/mattwelch/rtstat/issues",
   "main": "./index",
