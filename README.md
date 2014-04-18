@@ -1,3 +1,7 @@
+## Installation
+
+`npm install rtstat`
+
 ## Initialization
 
 `var rtstat=require('rtstat')`
