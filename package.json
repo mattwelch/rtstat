@@ -16,6 +16,6 @@
   "devDependencies": {
   	"chai": "1.9.x",
   	"chai-as-promised": "4.1.0",
-  	"sinon": "1.9.x",
+  	"sinon": "1.9.x"
   }
 }
