@@ -6,6 +6,10 @@
   "homepage": "https://github.com/mattwelch/rtstat",
   "bugs:": "https://github.com/mattwelch/rtstat/issues",
   "main": "./index",
+  "repository" :
+  { "type" : "git"
+  , "url" : "git@github.com:mattwelch/rtstat.git"
+  },
   "engines": {
     "node": "*"
   },
